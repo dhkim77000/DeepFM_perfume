@@ -49,3 +49,4 @@ Full shows predict output, rank and perfume index. Short only shows perfume inde
 For Full -> python predict.py full
 For Short -> python predict.py short
 
+
