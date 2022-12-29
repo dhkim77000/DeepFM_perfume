@@ -45,7 +45,7 @@ For classification -> python train.py classification
 predict.py
 -----
 predict perfumes using pretrained model. Only update when the user's update status is 1.
-Has two model full & short. Full shows predict output, rank and perfume index. Short only shows perfume index.
+Full shows predict output, rank and perfume index. Short only shows perfume index.
 For Full -> python predict.py full
 For Short -> python predict.py short
 
