@@ -1,0 +1,19 @@
+tensorflow(match the version with your CUDA environment)
+sklearn
+pandas
+numpy
+tqdm
+joblib
+multiprocessing
+keras
+selenium
+pyvirtualdisplay
+Xvfbwrapper
+webdriver
+chromedriver
+json
+requests
+psutill
+urllib.parse
+nltk
+
