@@ -45,7 +45,7 @@ You can see your training log at the log folder
 
 optimization.py 
 -----
-Find the best seed for model. 
+Find the best seed or other parameters for model. 
 You can see your training log at the log folder
 
 predict.py
