@@ -41,6 +41,12 @@ train.py
 train model. Can train model for 2 different task. 
 For regression -> python train.py regression. 
 For classification -> python train.py classification
+You can see your training log at the log folder
+
+optimization.py 
+-----
+Find the best seed for model. 
+You can see your training log at the log folder
 
 predict.py
 -----
