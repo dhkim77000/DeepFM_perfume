@@ -4,6 +4,11 @@ perfume recommendation using DeepFM
 ## Overall Flow
 ![image](https://user-images.githubusercontent.com/89527573/209938296-52031e64-dffa-40b8-8af5-4707912e2661.png)
 
+## Training Overview using TensorBoard
+---
+![image](https://user-images.githubusercontent.com/89527573/218098325-e82886e9-ccad-4035-9d31-eef722cbc3aa.png)
+
+
 ## Data
 -----
 Data is crawled from parfumo.com.
